@@ -2,5 +2,5 @@
 <H2>Enlaces</h2>
 <UL>
 <li>https://www.python.org/</li>
-<li>https://https://git-scm.com/</li>
+<li>https://git-scm.com/</li>
 </UL>
